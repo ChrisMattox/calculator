@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  color: magenta;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  flex: auto;
+}
